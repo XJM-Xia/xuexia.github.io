@@ -2,12 +2,11 @@
 title: XJM BLOG
 SEOTitle: XJM BLOG
 header-img: img/post-bg-desk.jpg
-email: xuejinming_suzhou@gmail.com
+email: xuejinming_suzhou@hotmail.com
 description: "Every failure is leading towards success."
 keyword: "Network, Security, Python, NetDevops, Wireshark"
 url: "https://xuexia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/XJM-Xia/xuexia.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,7 +17,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     809021020
+weibo_username:     809021020
 zhihu_username:     皮皮夏
 github_username:    xjm-xia
 facebook_username:  jinming.xue.1
