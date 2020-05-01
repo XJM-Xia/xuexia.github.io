@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: XJM Blog
+SEOTitle: 秋葉染冬的博客 | XJM Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: xuejinming_suzhou@hotmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "Network, Security, Python, NetDevops, Wireshark"
 url: "https://xuexia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
