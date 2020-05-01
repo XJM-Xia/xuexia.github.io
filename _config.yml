@@ -19,12 +19,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     809021020
-zhihu_username:     皮皮夏
-github_username:    xjm-xia
-facebook_username:  jinming.xue.1
+weibo_username: 809021020
+zhihu_username: 皮皮夏
+github_username: xjm-xia
+facebook_username: jinming.xue.1
 #jianshu_username:   e71990ada2fd
-twitter_username:   xuejinming
+twitter_username: xuejinming
 
 
 
@@ -80,8 +80,6 @@ kramdown:
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
 #ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
 
 
 
