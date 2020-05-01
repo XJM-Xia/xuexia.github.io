@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Facebook",
+        href: "https://www.facebook.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Twitter",
+        href: "https://twitter.com"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Cisco",
+        href: "https://www.cisco.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Adagene",
+        href: "https://www.adagene.com"
     }
 ]
